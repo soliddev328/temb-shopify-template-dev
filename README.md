@@ -1,33 +1,11 @@
-## Deprecation warning ⚠️
-
-The Timber theme is no longer being maintained by Shopify.  Developers are encouraged to check out [Slate](https://github.com/Shopify/slate) -
-a theme scaffolding and command line tool built for developing Shopify themes.
-
-You can continue to use Timber; however, this repo will not be kept up-to-date with changes in Shopify theme development.
-
----
-
-Shopify Timber
+Shopify Temb Template Development
 =====================
 
-Timber is a theme framework for Shopify that helps you get your store up and running quickly. It provides all required theme templates, a starter set of liquid tags, and some basic styles and modules for you to extend on.
+Temb is a theme framework for Shopify that helps you get your store up and running quickly. It provides all required theme templates, a starter set of liquid tags, and some basic styles and modules for you to extend on.
 
 Styling and customization is left up to you. Some base styles and helpers are included, but there is **no need to remove any code before you start**. Simply download and get designing.
 
 Designing a store for a client? Earn revenue through our <a href="http://www.shopify.com/partners">Partner program<a/>.
-
-Ways to Get Started
----------------------
-- Download the [latest release](https://github.com/Shopify/Timber/releases)
-- Clone the repo `git clone https://github.com/Shopify/Timber.git`
-- Or install with [Bower](http://bower.io/) `bower install timber`
-
-Demo Stores
----------------------
-- [Demo Store](https://timber-demo.myshopify.com/): A store setup with some products, blog posts, and customer accounts
-- [Empty Store](https://timber-demo-empty.myshopify.com/): A fresh store, just what you should expect when you install on your new store
-
-For a set of demo products to use during development, [download this CSV file](http://www.tetchi.ca/wp-content/uploads/2013/04/products1.csv) and import it on our products page.
 
 Basic structure
 ---------------
